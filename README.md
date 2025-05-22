@@ -47,7 +47,6 @@ GST is governed by the **Goods and Services Tax Act, 2017**, which mandates comp
 - **Automated reconciliation tools** help reduce errors.
 - **Vendor coordination** is crucial for ITC claims.
 
-Would you like to explore AI-driven solutions for GST reconciliation? You can find more details [here](https://cleartax.in/s/gst-reconciliation).
 
 
 
